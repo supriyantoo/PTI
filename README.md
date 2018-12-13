@@ -1,0 +1,2 @@
+# PTI
+pengantar teknologi informasi
